@@ -18,12 +18,15 @@
 </li>
 <li><p>multiline<br>  text</p>
 </li>
-<li><h2 id="inline-code"><a href="#inline-code" class="headerlink" title="inline code"></a><code>inline code</code></h2><pre><code><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;code block&#x27;</span>);</span><br></pre></td></tr></table></figure>
-</code></pre>
-</li>
+<li><p><code>inline code</code><br>  -</p>
+<pre><code><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;code block&#x27;</span>);</span><br></pre></td></tr></table></figure>
+</code></pre></li>
 <li><p>Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</p>
 </li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>template</tag>
+      </tags>
   </entry>
 </search>
