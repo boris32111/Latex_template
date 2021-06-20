@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My New Post</title>
+    <url>/2021/06/14/My-New-Post/</url>
+    <content><![CDATA[<h1 id="markmap"><a href="#markmap" class="headerlink" title="markmap"></a>markmap</h1><h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><ul>
+<li><a href="https://markmap.js.org/">https://markmap.js.org/</a></li>
+<li><a href="https://github.com/gera2ld/markmap">GitHub</a></li>
+</ul>
+<h2 id="Related"><a href="#Related" class="headerlink" title="Related"></a>Related</h2><ul>
+<li><a href="https://github.com/gera2ld/coc-markmap">coc-markmap</a></li>
+<li><a href="https://github.com/gera2ld/gatsby-remark-markmap">gatsby-remark-markmap</a></li>
+</ul>
+<h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><ul>
+<li><p>links</p>
+</li>
+<li><p><strong>inline</strong> <del>text</del> <em>styles</em></p>
+</li>
+<li><p>multiline<br>  text</p>
+</li>
+<li><h2 id="inline-code"><a href="#inline-code" class="headerlink" title="inline code"></a><code>inline code</code></h2><pre><code><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;code block&#x27;</span>);</span><br></pre></td></tr></table></figure>
+</code></pre>
+</li>
+<li><p>Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</p>
+</li>
+</ul>
+]]></content>
+  </entry>
+</search>
