@@ -21,7 +21,7 @@
 <li><p><code>inline code</code><br>  -</p>
 <pre><code><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;code block&#x27;</span>);</span><br></pre></td></tr></table></figure>
 </code></pre></li>
-<li><p>Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$</p>
+<li><p>Katex - $x = {\sqrt{b^2-4ac}}$</p>
 </li>
 </ul>
 ]]></content>
